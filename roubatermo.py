@@ -13,7 +13,7 @@ def get_letters(color):
 
 words_pt_br = "https://www.ime.usp.br/~pf/dicios/br-sem-acentos.txt"
 words_en_us = "https://raw.githubusercontent.com/dwyl/\
-               english-words/master/words.txt"
+english-words/master/words.txt"
 
 game_is = 'termo'
 if len(sys.argv) > 1:
